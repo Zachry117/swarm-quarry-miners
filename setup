@@ -28,7 +28,16 @@ local blacklist = {
 	{name="chisel:diorite"},
 	{name="chisel:granite"},
 	{name="chisel:andesite"},
-	{name="Railcraft:cube",metadata=7}
+	{name="Railcraft:cube",metadata=7},
+	{name="minecraft:granite"},
+	{name="minecraft:andesite"},
+	{name="minecraft:diorite"},
+	{name="embellishcraft:slate_cobblestone"},
+	{name="embellishcraft:basalt_cobblestone"},
+	{name="embellishcraft:marble_cobblestone"},
+	{name="embellishcraft:larvikite_cobblestone"},
+	{name="embellishcraft:jade_cobblestone"},
+	{name="embellishcraft:gneiss_cobblestone"}
 }
 
 for i,v in ipairs(copyfiles) do
