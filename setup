@@ -37,7 +37,8 @@ local blacklist = {
 	{name="embellishcraft:marble_cobblestone"},
 	{name="embellishcraft:larvikite_cobblestone"},
 	{name="embellishcraft:jade_cobblestone"},
-	{name="embellishcraft:gneiss_cobblestone"}
+	{name="embellishcraft:gneiss_cobblestone"},
+	{name="forbidden_arcanus:dark_stone"}
 }
 
 for i,v in ipairs(copyfiles) do
